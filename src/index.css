@@ -14,7 +14,8 @@
 }
 
 body {
-  background: url("./images/bg-intro-desktop.png"), var(--red);
+  background: url("https://sam-xander.github.io/signup-form-component/images/bg-intro-desktop.png"),
+    var(--red);
   min-height: 100vh;
   color: #fff;
   display: grid;
@@ -128,6 +129,10 @@ form button {
   cursor: pointer;
 }
 
+form button:hover {
+  filter: brightness(1.05);
+}
+
 form p {
   font-size: 0.84rem;
   text-align: center;
@@ -163,7 +168,8 @@ p.attribution a {
 
 @media (max-width: 1000px) {
   body {
-    background: url("./images/bg-intro-mobile.png"), var(--red);
+    background: url("https://sam-xander.github.io/signup-form-component/images/bg-intro-mobile.png"),
+      var(--red);
   }
 
   main {

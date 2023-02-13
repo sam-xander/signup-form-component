@@ -46,7 +46,7 @@ function Form() {
           <img
             id="fNameError"
             className="error-icon hide"
-            src="/images/icon-error.svg"
+            src="https://sam-xander.github.io/signup-form-component/images/icon-error.svg"
             alt="error"
           />
         </div>
@@ -63,7 +63,7 @@ function Form() {
           <img
             id="lNameError"
             className="error-icon hide"
-            src="/images/icon-error.svg"
+            src="https://sam-xander.github.io/signup-form-component/images/icon-error.svg"
             alt="error"
           />
         </div>
@@ -81,7 +81,7 @@ function Form() {
           <img
             id="emailError"
             className="error-icon hide"
-            src="/images/icon-error.svg"
+            src="https://sam-xander.github.io/signup-form-component/images/icon-error.svg"
             alt="error"
           />
         </div>
@@ -98,7 +98,7 @@ function Form() {
           <img
             id="passwordError"
             className="error-icon hide"
-            src="/images/icon-error.svg"
+            src="https://sam-xander.github.io/signup-form-component/images/icon-error.svg"
             alt="error"
           />
         </div>
